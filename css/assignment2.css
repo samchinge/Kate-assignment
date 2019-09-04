@@ -1,0 +1,114 @@
+#head{
+    text-align: center;
+}
+#header{
+    text-align: center;
+}
+#about-text{
+    width: 40%;
+    float: right;
+    padding-left: 80px;
+}
+#about-img{
+    height: 200px;
+    width: 300px;
+    display: inline-block;
+    margin-left: 40px;
+    padding-left: 150px;
+}
+#about-img img{
+    height: 200px;
+    width: 300px;
+}
+.heading{
+    width: 80%;
+    height: 100vh;
+}
+#about-text2{
+    width: 40%;
+    padding-left: 200px;
+    display: inline-block;
+    float: left;
+}
+#about-img2{
+    height: 200px;
+    width: 300px;
+    float: right;
+    margin-left: 40px;
+    padding-left: 50px;
+    float: right;
+}
+#about-img2 img{
+    height: 200px;
+    width: 200px;
+}
+#about-text3{
+    width: 50%;
+    display: inline-block;
+    float: right;
+    padding-left: 150px;
+    margin-top: 50px;
+}
+#about-img3 img{
+    height: 200px;
+    width: 200px;
+    padding-left: 155px;
+    margin-top: 50px;
+}
+#about-text4{
+    width: 50%;
+    display: inline-block;
+    height: 20%;
+    padding-left: 100px;
+    margin-top: 50px;
+}
+
+#about-img4{
+    height: 100px;
+    width: 200px;
+    float: right;
+    margin-left: 40px;
+    padding-left: 50px;
+    float: right;
+}
+#about-img4 img{
+    height: 200px;
+    width: 200px;
+    padding-top: 60px;
+    padding-right: 100px;
+    margin-right: 100px;
+
+}
+#about-img5{
+    height: 100px;
+    width: 200px;
+    padding-right: 150px;
+
+    
+}
+#about-img5 img{
+    height: 100px;
+    width: 100px;
+    padding-top: 100px;
+    margin-bottom: 1000px;
+    padding-left: 100px;
+
+}
+#about-text5{
+    width: 50%;
+    display: inline-block;
+    height: 20%;
+    padding-left: 500px;
+    margin-top: 100px;
+}
+.heading{
+    margin: 0 auto;
+    border: 1px solid black;
+    height: 200vh;
+    width: 80%;
+}
+
+
+    
+
+
